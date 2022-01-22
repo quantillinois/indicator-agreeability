@@ -8,6 +8,7 @@ body:
       label: Which component of the code is the source of the bug?
       options:
         - core
+        - ui
         - Don't known / other
       multiple: true
     validations:

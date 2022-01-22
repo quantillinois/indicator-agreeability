@@ -8,17 +8,17 @@ Help us keep IA open and inclusive. Please read and follow our [Code of Conduct]
 
 ## Got a Question / Problem?
 
-Do not open issues for general support questions as we want to keep GitHub issues for bug reports and feature requests. Instead, we recommend using our [Github Discussions Board](https://github.com/uiuc-quant/indiacator-agreeability/discussions) to ask support-related questions. 
+Do not open issues for general support questions as we want to keep GitHub issues for bug reports and feature requests. Instead, we recommend using our [Github Discussions Board](https://github.com/uiuc-quant/indicator-agreeability/discussions) to ask support-related questions. 
 
 If you would like to chat about the question in real-time, you can reach out via our [Discord server](https://discord.gg/yUnTd6Gqnb).
 
 ## Found a Bug?
 
-If you find a bug in the source code, you can help us by [submitting an issue](https://github.com/uiuc-quant/indiacator-agreeability/issues) to our [GitHub Repository](https://github.com/uiuc-quant/indiacator-agreeabilit).
-Even better, you can [submit a Pull Request](https://github.com/uiuc-quant/indiacator-agreeability/pulls) with a fix.
+If you find a bug in the source code, you can help us by [submitting an issue](https://github.com/uiuc-quant/indicator-agreeability/issues) to our [GitHub Repository](https://github.com/uiuc-quant/indicator-agreeabilit).
+Even better, you can [submit a Pull Request](https://github.com/uiuc-quant/indicator-agreeability/pulls) with a fix.
 
 ## Missing a Feature?
-You can *request* a new feature by [submitting an issue](https://github.com/uiuc-quant/indiacator-agreeability/issues) to our GitHub Repository.
+You can *request* a new feature by [submitting an issue](https://github.com/uiuc-quant/indicator-agreeability/issues) to our GitHub Repository.
 If you would like to *implement* a new feature, please consider the size of the change in order to determine the right steps to proceed:
 
 * For a **Major Feature**, first open an issue and outline your proposal so that it can be discussed.
@@ -26,7 +26,7 @@ If you would like to *implement* a new feature, please consider the size of the 
 
   **Note**: Adding a new topic to the documentation, or significantly re-writing a topic, counts as a major feature.
 
-* **Small Features** can be crafted and directly [submitted as a Pull Request](https://github.com/uiuc-quant/indiacator-agreeability/pulls).
+* **Small Features** can be crafted and directly [submitted as a Pull Request](https://github.com/uiuc-quant/indicator-agreeability/pulls).
 
 
 ## Submission Guidelines
@@ -48,14 +48,14 @@ We understand that sometimes it might be hard to extract essential bits of code 
 
 Unfortunately, we are not able to investigate / fix bugs without a minimal reproduction, so if we don't hear back from you, we are going to close an issue that doesn't have enough info to be reproduced.
 
-You can file new issues by selecting from our [new issue templates](https://github.com/uiuc-quant/indiacator-agreeability/issues/new/choose) and filling out the issue template.
+You can file new issues by selecting from our [new issue templates](https://github.com/uiuc-quant/indicator-agreeability/issues/new/choose) and filling out the issue template.
 
 
 ### Submitting a Pull Request (PR)
 
 Before you submit your Pull Request (PR) consider the following guidelines:
 
-1. Search [GitHub](https://github.com/uiuc-quant/indiacator-agreeability/pulls) for an open or closed PR that relates to your submission.
+1. Search [GitHub](https://github.com/uiuc-quant/indicator-agreeability/pulls) for an open or closed PR that relates to your submission.
    You don't want to duplicate existing efforts.
 
 2. Be sure that an issue describes the problem you're fixing, or documents the design for the feature you'd like to add.

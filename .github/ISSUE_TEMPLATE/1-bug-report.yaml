@@ -37,7 +37,7 @@ body:
       label: Please provide the environment you discovered this bug in
       render: true
       placeholder: |
-      Details about OS, environment, Python version, etc
+        Details about OS, environment, Python version, etc
 
   - type: textarea
     id: other

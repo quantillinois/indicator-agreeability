@@ -8,7 +8,8 @@ body:
       label: Which of the following module(s) is/are relevant/releated to the feature request?
       options:
         - core
-        - ui
+        - indicators
+        - api
         - other
       multiple: true
 

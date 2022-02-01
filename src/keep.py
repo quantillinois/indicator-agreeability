@@ -35,12 +35,12 @@ class Keep:
         return first_number + second_number
 
     """
-    Input - 
+    Input -
     price_array = [5.093202617298384, 5.1186766373255494, 5.173893746495927, 5.295009073341559, 5.399191447443256, 5.351825535182657, 5.408024435253786, 5.405247024879783, 5.405073037988975, 5.432671259949622]
-    smoothing = 2 
+    smoothing = 2
     window_size = 20
 
-    Output = 
+    Output =
     ema array
     """
 

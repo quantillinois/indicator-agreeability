@@ -1,5 +1,4 @@
 """Simple module that should pass the pylint testcase for sure."""
-
 import pandas as pd
 
 

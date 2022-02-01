@@ -1,6 +1,8 @@
 """Simple module that should pass the pylint testcase for sure."""
 
 import pandas as pd
+
+
 class Keep:
     """Simple test class to test out basic Git workflows."""
 
@@ -41,23 +43,17 @@ class Keep:
     Output = 
     ema array
     '''
+
     def exponential_moving_average(self, price_array, smoothing, window_size):
         #df = pd.DataFrame(price_array, columns=['price'])
-        #print(df)
+        # print(df)
         ema = []
         ema_value = 0
         for price in price_array:
             if ema_value == 0:
                 ema_value = price
             else:
-                ema_value= smoothing*price+(1-smoothing)*ema_value
+                ema_value = smoothing*price+(1-smoothing)*ema_value
             ema.append(ema_value)
-        #print(ema)
+        # print(ema)
         return ema
-
-
-
-
-
-
-

@@ -1,6 +1,5 @@
-import numpy as np
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
 
 # generating time series price data
 mu = 0.001

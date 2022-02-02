@@ -8,7 +8,7 @@ sigma = 0.01
 start_price = 5
 np.random.seed(0)
 returns = np.random.normal(loc=mu, scale=sigma, size=100)
-price = start_price*(1+returns).cumprod()
+price = start_price * (1 + returns).cumprod()
 
 # Simple Moving Averages
 window_size = 3
@@ -19,8 +19,7 @@ moving_averages = []
 # consider every window of size 3
 while i < len(price) - window_size + 1:
     # Calculate the average of current window
-    window_average = round(np.sum(price[
-        i:i+window_size]) / window_size, 2)
+    window_average = round(np.sum(price[i : i + window_size]) / window_size, 2)
 
     # Store the average of current
     # window in moving average list
@@ -33,10 +32,10 @@ while i < len(price) - window_size + 1:
 plt.plot(price)
 plt.plot(moving_averages)
 # naming the x axis
-plt.xlabel('Price')
+plt.xlabel("Price")
 # naming the y axis
-plt.ylabel('SMA')
+plt.ylabel("SMA")
 # giving a title to my graph
-plt.title('SMA graph')
+plt.title("SMA graph")
 # function to show the plot
 plt.show()
